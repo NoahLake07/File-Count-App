@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FileCounter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileCounter_jar</output-path>
+    <root id="archive" name="FileCounter.jar">
+      <element id="module-output" name="FileCounter" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../VirtualConsole/out/artifacts/VirtualConsole_jar/VirtualConsole.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
